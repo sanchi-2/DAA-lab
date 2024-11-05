@@ -30,3 +30,8 @@ Block Diagram /  Flow Chart:
 6. Exit: If the user chooses to exit, save tasks to the database (if applicable) and terminate the application. 
  
 7. End: The application concludes its execution.
+   ![](output1.png)
+   ![](output2.png)
+   ![](output3.png)
+   ![](output4.png)
+   
